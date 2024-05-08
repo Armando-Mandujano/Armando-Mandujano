@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Tecnologías Computacionales en el Tec de Monte
 
 - 🛠 Habilidades: Manejo Python, SQL, React HTML y Linux.
 
-- 🌟 Intereses: Me apasiona todo lo relacionado con la ciberseguridad y el desarrollo de software.
+- 🌟 Intereses: Me apasiona todo lo relacionado con la ciberseguridad, el desarrollo de software y el cheerleading.
 
 ## ¿A qué me dedico?
 
