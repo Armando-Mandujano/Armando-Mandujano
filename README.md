@@ -32,4 +32,7 @@ Soy estudiante de Ingeniería en Tecnologías Computacionales en el Tec de Monte
      Tecnologías usadas: React, CSS, API de películas.
 
      Repositorio: https://github.com/Armando-Mandujano/Movie-Database
+     
+## ¿Cómo puedes contactarme?
 
+- 📧 Email: A01655899@tec.mx - lu.mandujanoc@gmail.com
